@@ -1,6 +1,6 @@
 # Biology Toolbox: Python Scripts for Molecular Biology
 
-Overview
+# Overview
 Welcome to the Biology Toolbox repository! This collection of Python scripts is designed to assist in various molecular biology tasks, offering functionalities crucial for a biology course. 
 The scripts cover fundamental operations, including counting nucleotides, transcribing DNA to RNA, finding the complement of a DNA strand, and translating RNA to protein.
 
