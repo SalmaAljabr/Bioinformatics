@@ -16,4 +16,4 @@ Features
 - Complementing a DNA Strand: Find the complementary strand of a given DNA sequence.
 - Translating RNA to Protein: Translate an RNA sequence into its corresponding protein sequence.
 
-> Note: This project was completed during the academic year 2023-2023 for the Biology course as a "freshman student".
+> Note: This project was completed during the academic year 2022-2023 for the Biology course as a "freshman student".
